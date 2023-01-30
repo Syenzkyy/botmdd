@@ -29,9 +29,9 @@ NO WA : 085157740529
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = ["6285157740529"]
-global.ownerName = 'Zero YT7'
-global.botName = 'Popeye-MD'
+global.owner = ["60149507978"]
+global.ownerName = 'Xien YT7'
+global.botName = 'Maya-MD'
 global.prefa = ['','!','.','🐦','🐤','🗿','/']
 global.sp = '⭔'
 
